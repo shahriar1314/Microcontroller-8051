@@ -13,7 +13,8 @@ We will store the value in the following manner:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95894329/195997462-cd3cc6cb-1487-4fe3-a5e1-0c6b1ebe89be.png" width="380" height="120">
 </p>
-  
+If the result is negative, the carry flag will be set. In this scenerio we need to take the 2's complement of the answer to get the actual difference. 
+
 ## Palindrom_checker
 <b>Problem Statement:</b> Design a 7 byte palindrome checker > if palindrom send 'Y' to port '1' else send 'N' to port 1    
 <br> <p></p>
