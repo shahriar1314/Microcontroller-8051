@@ -22,6 +22,6 @@ NOPE:	MOV P1, 'N'		;IF NOT PALINDROME, SENDING 'N' TO PORT 1
 EXIT:
 
 ORG 30H 
-VALUE: DB 'd','i','v', 'i', 'd', 'e', 'd' ;INITIAL VALUE STORED AT LOCATION 30H 
+VALUE: DB 'd','e','v', 'i', 'd', 'e', 'd' ;INITIAL VALUE STORED AT LOCATION 30H 
 
 END 
