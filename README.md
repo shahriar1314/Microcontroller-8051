@@ -12,5 +12,5 @@ We will store the value in the following manner:
 </p>
   
 ## Palindrom_checker
-Problem statement: Design a 7 byte palindrome checker > if palindrom send 'Y' to port '1' else send 'N' to port 1
+Problem Statement: Design a 7 byte palindrome checker > if palindrom send 'Y' to port '1' else send 'N' to port 1
 We will check the First and Last byte at the beginning. Then the second byte and the second last byte... this way we can check whether it's a palindrome or not
