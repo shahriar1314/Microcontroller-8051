@@ -31,6 +31,8 @@ x=36*255 (appx)
 <br><br>
 We stored the initial values ar saved in R6, R7 (in line 6, 7) for ones and tens place respectively. 
 
+## Display your ID
+<b>Problem Statement:</b> Interface LCD with 8051 microcontroller and display your student ID
 
 ## Palindrom_checker
 <b>Problem Statement:</b> Design a 7 byte palindrome checker > if palindrom send 'Y' to port '1' else send 'N' to port 1    
