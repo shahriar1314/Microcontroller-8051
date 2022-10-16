@@ -22,8 +22,8 @@ Frequency for 1 Machine Cycle = 22/12 MHz = 1.833MHz
 <br><br>
 We need to generate 33% duty cycle of a time period of 15ms. So, we can design a delay for 5ms and call 3 times to get 15ms time period. 
 <p align="center"> 2*(0.545e-6)*x =5e-3
-x = 9174 (appx)
-x=36*255 (appx)
+x = 4587 (appx)
+x=18*255 (appx)
 </p>
 
 ## Count00to99
